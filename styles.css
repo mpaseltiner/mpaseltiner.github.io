@@ -1,0 +1,19 @@
+
+body{
+    background-color: #18121E;
+    color: white;
+    border-style: solid;
+    border-color: #984B43;
+    border-radius: 15px;
+}
+
+
+#selfie{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+h1{
+    text-align: center;
+}
